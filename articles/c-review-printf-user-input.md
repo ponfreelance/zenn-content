@@ -237,7 +237,7 @@ CSAF が特に強いのは **依存グラフによるリスク自動昇格** で
 
 完全ローカル動作で、API キー不要。組み込み系や医療・車載のように**コードを社外に出せない現場**でも使えます。個人利用ライセンスは Booth で ¥4,980。業務ライセンスは別途相談です。
 
-→ [自社プロダクト: CSAF (C Safety Audit Framework) - Booth](https://autotrader.booth.pm/items/8163116)
+→ [自社プロダクト: CSAF (C Safety Audit Framework) - Booth](https://cutt.ly/ItKo4MPY)
 
 ## 3段構成を振り返って
 
@@ -269,6 +269,6 @@ CSAF が特に強いのは **依存グラフによるリスク自動昇格** で
 - **CLI で日常運用 → creview**（自社プロダクト / 無料）
   → https://github.com/ponfreelance/creview
 - **業務・監査レベル → CSAF**（自社プロダクト / ¥4,980）
-  → https://autotrader.booth.pm/items/8163116
+  → https://cutt.ly/ItKo4MPY
 
 2026年4月時点の情報です。creview / CSAF のバージョンは随時更新しています。
