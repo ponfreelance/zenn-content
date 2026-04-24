@@ -175,7 +175,7 @@ Bot開発に3週間かけても、確定申告で2日潰れたら本末転倒。
 無料プランから始められるし、税理士の監修実績もあるので、
 まずはこれで自分の取引量なら耐えられるか確かめるのが一番早い。
 
-→ [利用者No1の仮想通貨税金計算サービス【CRYPTACT（クリプタクト）】](https://px.a8.net/svt/ejp?a8mat=4B1EPO+16V8C2+4DGW+5YJRM)
+→ [利用者No1の仮想通貨税金計算サービス【CRYPTACT（クリプタクト）】](https://px.a8.net/svt/ejp?a8mat=4B1EPO+16V8C2+4DGW+5YJRM&s00=z-a-cryptact-tax-hell)
 
 **② 計算が手に負えない／時間がない派**
 DeFi、海外取引所、NFT、年間数千件以上の取引 —
@@ -183,4 +183,4 @@ DeFi、海外取引所、NFT、年間数千件以上の取引 —
 **仮想通貨専門の税理士に LINE で無料相談できる**サービスがある。
 LINE追加だけなので、まず話を聞くだけでもいい。
 
-→ [【仮想通貨の確定申告なら】クリプト税理士](https://px.a8.net/svt/ejp?a8mat=4B1N9T+7VZSC2+5RNA+5YJRM)
+→ [【仮想通貨の確定申告なら】クリプト税理士](https://px.a8.net/svt/ejp?a8mat=4B1N9T+7VZSC2+5RNA+5YJRM&s00=z-a-cryptact-tax-hell)
