@@ -147,7 +147,7 @@ Render Free の 15 分スリープ問題。UptimeRobot の Free プランは 50 
 - UptimeRobot 5 分 ping で常時起動を成立させる
 - 売上が立ってから段階的に昇格する
 
-実物の SaaS を **無料 5 件試せます** → [期限切れ特許 × AI で商品ネタを発掘する SaaS](https://cutt.ly/StXzwsWV)（中国輸入セラー / D2C 向け）。同じ構成を中国輸入セラー向けの完全ガイドに落とし込んだ Brain ¥4,980 も近日公開します。
+実物の SaaS を **無料 5 件試せます** → [期限切れ特許 × AI で商品ネタを発掘する SaaS](https://cutt.ly/StXzwsWV)（中国輸入セラー / D2C 向け）。中国輸入セラー向けの完全ガイドを Brain にまとめました → [**期限切れ特許 × AI で中国輸入の差別化ネタを発掘する完全ガイド**（Brain ¥4,980）](https://cutt.ly/9tXUfDwn)
 
 ---
 
