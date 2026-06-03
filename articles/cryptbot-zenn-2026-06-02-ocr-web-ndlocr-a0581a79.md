@@ -1,19 +1,9 @@
 ---
-title: "Untitled"
-emoji: "🔧"
-type: "tech"
-topics:
-  - "Python"
-  - "FastAPI"
-  - "個人開発"
-published: true
----
----
 title: "国会図書館OCRをWebサービス化した設計判断 — NDLOCR-Lite × Docker × FastAPI"
 emoji: "🤖"
 type: "tech"
 topics: ["python", "fastapi", "docker", "個人開発"]
-published: false
+published: true
 ---
 
 国会図書館が公開している OCR エンジン「NDLOCR-Lite」を、FastAPI で包んでローカル Web サービスとして動かした。制約は「GPU なし・個人の Mac 一台・外部 API 課金ゼロ」。既製の OCR SaaS を使えば済む話だが、古文書や縦書き和文の認識精度が商用サービスより高いケースがあり、自前でサービス化する価値があると判断した。この記事では、その設計判断の理由を中心に書く。

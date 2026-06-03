@@ -1,19 +1,9 @@
 ---
-title: "Untitled"
-emoji: "🔧"
-type: "tech"
-topics:
-  - "Python"
-  - "FastAPI"
-  - "個人開発"
-published: true
----
----
 title: "旅行の持ち物リストを「経験から育てる」設計 — React / TypeScript / Supabase で作った個人開発アプリの設計判断"
 emoji: "🤖"
 type: "tech"
 topics: ["python", "fastapi", "react", "個人開発"]
-published: false
+published: true
 ---
 
 旅行のたびに「あれ持ってくれば良かった」を繰り返していた。スプレッドシートで管理しようとしたが、旅行の種類や季節によって必要なものが変わるので汎用リストはすぐ破綻する。そこで「過去の旅行経験を蓄積して、次回の旅行に自動的に最適化されたリストを提案する」アプリを React / TypeScript / Supabase / Chakra UI / Firebase で個人開発した。この記事では、そのデータ設計とUI設計の判断理由を書く。
