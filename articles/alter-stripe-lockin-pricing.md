@@ -161,7 +161,7 @@ DB 更新に失敗したら **500 を返す**のも意図的です。Stripe は 
 
 ALTER は、副業とダイエットを 1 つのキャラで育てる「焦らせない」観察 RPG です。いまその Founders 50 枠（¥500/月・永久ロックイン）を開放しています。
 
-→ ALTER: https://alter.ponfreelance.com
+→ ALTER: https://alter.ponfreelance.com/?utm_source=zenn&utm_campaign=alter-launch&utm_content=z1
 
 アーキテクチャ全体や職業判定ロジックは Qiita に別記事として書いています。
 
