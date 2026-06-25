@@ -1,22 +1,15 @@
 ---
-title: "Untitled"
+title: "Zaif APIのorder_id=0問題を正しく扱う実装パターン"
 emoji: "🔧"
 type: "tech"
 topics:
-  - "Python"
-  - "FastAPI"
-  - "個人開発"
+  - "zaif"
+  - "api"
+  - "python"
+  - "仮想通貨"
+  - "自動売買"
 published: true
 ---
-```markdown
----
-title: "Zaif APIのorder_id=0問題を正しく扱う実装パターン"
-platform: zenn
-tags: [zaif, api, python, 仮想通貨, 自動売買]
----
-
-# Zaif APIのorder_id=0問題を正しく扱う実装パターン
-
 Zaif APIで注文を出したとき、レスポンスの`order_id`が`0`で返ってくることがある。これを「注文失敗」と誤判定して処理を止めた経験がある人向けに書く。自動売買ツールを実装していて、この挙動にハマった人が読むと役に立つはずだ。
 
 ---
@@ -281,4 +274,3 @@ C言語実務15年、組み込み／制御系。
 書いているもの：
 - AutoTrader 実装学習キット - FastAPI × React Native で作る外部 API 連携アプリ実装学習キット
 （その他：（なし））
-```
