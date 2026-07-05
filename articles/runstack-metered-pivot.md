@@ -2,11 +2,7 @@
 title: "個人開発ツールの「zip売り」をやめて、ホスト実行＋従量課金に設計し直した話"
 emoji: "📦"
 type: "idea"
-topics:
-  - "個人開発"
-  - "saas"
-  - "スタートアップ"
-  - "ビジネス"
+topics: ["saas", "startup", "business", "indiedev"]
 published: true
 ---
 
