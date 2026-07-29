@@ -120,10 +120,10 @@ C言語の静的解析を、いきなり有料ではなく「無料で手を動�
 
 - **まずブラウザで試す → c-review-ai**（自社プロダクト / MIT / 無料）
   貼り付けた1ファイルをその場でレビュー。導入ゼロで挙動を確かめる用。
-  → https://github.com/ponfreelance/c-review-ai
+  → https://cutt.ly/1yuTys1c
 - **CLI で日常運用 → creview**（自社プロダクト / 無料）
   手元のコードをコミット前に単発チェック。CI にも組み込める。
-  → https://github.com/ponfreelance/creview
+  → https://cutt.ly/syuTpB7z
 - **リポジトリ全体を監査 → CSAF**（自社プロダクト / ¥4,980 買い切り）
   MISRA 準拠チェックと CWE データフロー解析をリポジトリ横断で走らせ、監査レポート（HTML）を出力。
   レビューの属人化を止めたいチーム向けで、商用の静的解析ツールなら数十万円かかる基本機能を、個人でも入れられる価格にしています。

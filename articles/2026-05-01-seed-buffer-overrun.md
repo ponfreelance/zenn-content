@@ -92,9 +92,9 @@ L27 【重大】: 外部入力iを境界チェックなしで配列添字に使�
 ### 試すリンク
 
 - **ブラウザで気軽に試す → c-review-ai**（自社プロダクト / MIT / 無料）
-  → https://github.com/ponfreelance/c-review-ai
+  → https://cutt.ly/1yuTys1c
 - **CLI で日常運用 → creview**（自社プロダクト / 無料）
-  → https://github.com/ponfreelance/creview
+  → https://cutt.ly/syuTpB7z
 - **業務・監査レベル → CSAF**（自社プロダクト / ¥4,980）
   → https://cutt.ly/ItKo4MPY
 
