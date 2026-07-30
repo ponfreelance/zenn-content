@@ -3,7 +3,7 @@ title: "AIと英会話できる学習アプリを個人開発した設計判断 
 emoji: "🤖"
 type: "tech"
 topics: ["python", "fastapi", "bedrock", "個人開発"]
-published: true
+published: false
 ---
 
 英語学習アプリを個人開発でリリースした。既存の英会話アプリに感じていた不満は「決まったスクリプトをなぞるだけで、雑談的な広がりがない」こと。AWS の Bedrock AgentCore と Strands Agents を使い、音声で自由に話しかけられるAIチューターを FastAPI × React Native Expo で構築した。制約は「個人開発の運用コストを抑える」「レイテンシを会話が成立するレベルに収める」の2つ。この記事ではエージェント構成とバックエンドの設計判断を中心に書く。

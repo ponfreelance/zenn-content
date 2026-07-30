@@ -3,7 +3,7 @@ title: "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastA
 emoji: "🤖"
 type: "tech"
 topics: ["python", "fastapi", "kubernetes", "個人開発"]
-published: true
+published: false
 ---
 
 友人と運営しているMinecraftサーバーが、気づくと落ちていることが何度かあった。SSHで入ってログを確認する手間を省きたくて、サーバー状態をスマホで見られる監視アプリ「MineWatch」を作った。目的は監視機能そのものより「App Storeリリースまでの一連の工程を自分の手で経験すること」だった。制約は「UIKitで書く」「バックエンドはFastAPI」「監視対象のMinecraftサーバーはK8s上で動く」の3つ。この記事ではバックエンドの監視設計とリリースフローで詰まった判断を中心に書く。
