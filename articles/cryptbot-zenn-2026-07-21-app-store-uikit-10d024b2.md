@@ -1,5 +1,5 @@
 ---
-title: "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」"
+title: "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraft監視アプリ"
 emoji: "🤖"
 type: "tech"
 topics: ["python", "fastapi", "kubernetes", "個人開発"]
