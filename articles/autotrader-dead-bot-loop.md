@@ -87,6 +87,6 @@ def revive_dead_bots(db) -> list[Bot]:
 
 ## 関連リンク
 
-[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader-dead-bot-loop)
+[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader-dead-bot-loop)
 
 by ぽん ([@pon_freelance](https://x.com/pon_freelance))

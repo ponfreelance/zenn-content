@@ -339,6 +339,6 @@ function buildNavigationUrl(address: string): string {
 
 ## 関連リンク
 
-[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader-lp.onrender.com/)
+[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader.ponfreelance.com/sales/)
 
 by ぽん ([@pon_freelance](https://x.com/pon_freelance))

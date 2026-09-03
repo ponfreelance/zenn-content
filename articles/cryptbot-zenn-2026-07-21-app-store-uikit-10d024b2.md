@@ -227,7 +227,7 @@ UIKitでの開発とネイティブなリリースフローを選んだ判断に
 
 ## 関連リンク
 
-[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%81%A7app-store%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%95%E3%83%AD%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-uikit-fastapi-k8s%E3%81%A7%E4%BD%9C%E3%82%8Bminecraft%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E7%9B%A3%E8%A6%96)
+[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%81%A7app-store%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%95%E3%83%AD%E3%83%BC%E3%82%92%E5%AD%A6%E3%81%B6-uikit-fastapi-k8s%E3%81%A7%E4%BD%9C%E3%82%8Bminecraft%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E7%9B%A3%E8%A6%96)
 
 by ぽん ([@pon_freelance](https://x.com/pon_freelance))
 

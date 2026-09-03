@@ -174,7 +174,7 @@ Pythonの実行環境を用意し、取引所の公開API（無料・登録不�
 
 ここまでのロジックが固まってきて、C言語での実装経験を活かしてもう少し本格的に組みたくなったら、こういうツールもある：
 
-- **[AutoTrader 実装学習キット](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)**：FastAPI × React Native で外部APIと連携するアプリの実装を学べる教材
+- **[AutoTrader 実装学習キット](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)**：FastAPI × React Native で外部APIと連携するアプリの実装を学べる教材
   （まだペーパートレードすら始めていないなら、先にこの記事のステップ2・3を自分の手で動かしてから検討を）
 
 ## 関連リソース
@@ -193,7 +193,7 @@ Pythonの実行環境を用意し、取引所の公開API（無料・登録不�
 
 AutoTrader 実装学習キット を実際に触ってみるなら。
 
-→ [AutoTrader 実装学習キット](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)
+→ [AutoTrader 実装学習キット](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)
 
 ---
 

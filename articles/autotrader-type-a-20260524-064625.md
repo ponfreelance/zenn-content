@@ -255,7 +255,7 @@ ZaifのプライベートAPIは1秒あたり数リクエストの制限がある
 
 ## 関連ツール
 
-**[AutoTrader 実装学習キット](https://autotrader-lp.onrender.com/?utm_source=qiita&utm_medium=article&utm_campaign=autotrader)**（著者開発）
+**[AutoTrader 実装学習キット](https://autotrader.ponfreelance.com/sales/?utm_source=qiita&utm_medium=article&utm_campaign=autotrader)**（著者開発）
 
 FastAPI × React Native で作る外部API連携アプリの実装学習キット。Zaifの`order_id=0`問題を含む取引所固有の仕様差を吸収する設計パターンと、Zaif/bitFlyer/GMO/Coincheck/Binance Japan の5取引所対応サンプルコードを収録している。スタンダード版（国内4社API連携サンプル）¥4,950から。
 

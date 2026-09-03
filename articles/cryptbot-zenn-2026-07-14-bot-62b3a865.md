@@ -246,7 +246,7 @@ React Native Expo 側でドローダウン状態を表示する画面を作っ�
 
 ## 関連リンク
 
-[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader-lp.onrender.com/)
+[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader.ponfreelance.com/sales/)
 
 by ぽん ([@pon_freelance](https://x.com/pon_freelance))
 

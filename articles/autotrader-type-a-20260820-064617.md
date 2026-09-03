@@ -24,7 +24,7 @@ published: true
 
 手数料についても同様で、Maker/Takerで手数料率が変わる取引所は多い。GMOコインとbitFlyerでは手数料体系が違うし、Zaifのように取引量によって手数料が変動する仕組みもある。バックテストで一律0.1%として計算していると、実際の取引回数が多い高頻度戦略ほど誤差が拡大する。
 
-自分は最初、この検証の甘さに気づかず、5取引所分の実装を横断して同じ約定モデルを使い回していた。結果、Zaifだけ手数料の実装が違うことに気づかず、2週間分のログを見直す羽目になった。こういう取引所ごとのクセを吸収する設計を最初からやっておけばよかったと今は思う。この手の実装をまとめて学べるように[AutoTrader 実装学習キット](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)というキットを作った。5取引所分のAPI連携サンプルと、約定モデルの実装例が入っている。
+自分は最初、この検証の甘さに気づかず、5取引所分の実装を横断して同じ約定モデルを使い回していた。結果、Zaifだけ手数料の実装が違うことに気づかず、2週間分のログを見直す羽目になった。こういう取引所ごとのクセを吸収する設計を最初からやっておけばよかったと今は思う。この手の実装をまとめて学べるように[AutoTrader 実装学習キット](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)というキットを作った。5取引所分のAPI連携サンプルと、約定モデルの実装例が入っている。
 
 ## 解決手順
 
@@ -108,7 +108,7 @@ class Order:
 
 ## 関連ツール
 
-この記事で触れた手数料モデル・スリッページの考え方・部分約定処理・Rate Limit回避・複数API連携時の状態管理は、[AutoTrader 実装学習キット](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)にサンプル実装としてまとめてある。スタンダード版は国内4社のAPI連携と3アルゴリズムの実装例で¥4,950、推奨版は15API連携・7アルゴリズム・452テスト付きで¥9,800。取引所固有のクセに毎回ハマるのがしんどい人には、実装例を読むだけでも時間短縮になると思う。
+この記事で触れた手数料モデル・スリッページの考え方・部分約定処理・Rate Limit回避・複数API連携時の状態管理は、[AutoTrader 実装学習キット](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=autotrader&utm_content=affiliflow)にサンプル実装としてまとめてある。スタンダード版は国内4社のAPI連携と3アルゴリズムの実装例で¥4,950、推奨版は15API連携・7アルゴリズム・452テスト付きで¥9,800。取引所固有のクセに毎回ハマるのがしんどい人には、実装例を読むだけでも時間短縮になると思う。
 
 ## まとめ
 

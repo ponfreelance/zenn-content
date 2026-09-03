@@ -219,7 +219,7 @@ APIキーの保管場所を「DBか環境変数か」で悩んだ時間は長か
 
 ## 関連リンク
 
-[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader-lp.onrender.com/?utm_source=zenn&utm_medium=article&utm_campaign=%E5%8F%96%E5%BC%95%E6%89%80api%E3%82%AD%E3%83%BC%E3%81%AE%E5%AE%89%E5%85%A8%E3%81%AA%E4%BF%9D%E7%AE%A1-%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0-secrets)
+[AutoTrader 実装学習キット (FastAPI × React Native)](https://autotrader.ponfreelance.com/sales/?utm_source=zenn&utm_medium=article&utm_campaign=%E5%8F%96%E5%BC%95%E6%89%80api%E3%82%AD%E3%83%BC%E3%81%AE%E5%AE%89%E5%85%A8%E3%81%AA%E4%BF%9D%E7%AE%A1-%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0-secrets)
 
 by ぽん ([@pon_freelance](https://x.com/pon_freelance))
 
